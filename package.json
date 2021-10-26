@@ -1,0 +1,29 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "Unit 10 homework",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samz1n/Team-Profile-Generator"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/samz1n/Team-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/samz1n/Team-Profile-Generator#readme",
+  "dependencies": {
+    "inquirer": "^7.0.0"
+  },
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
